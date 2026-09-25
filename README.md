@@ -1,6 +1,8 @@
 # dOPT
 ## Differentiating Conic Optimization via Geometric Reduction
 
+It's an anonymous repo associated with an ICLR submission under review
+
 <img src="figure/combined_figure.png" alt="Paper experiment results" width="800">
 
 This repository implements **dOPT**, a solver-agnostic framework for
