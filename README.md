@@ -1,7 +1,7 @@
 # dOPT
 ## Differentiating Conic Optimization via Geometric Reduction
 
-It's an anonymous repo associated with an ICLR submission under review
+### This is an anonymous repo associated with an ICLR 2027 submission under review
 
 <img src="figure/combined_figure.png" alt="Paper experiment results" width="800">
 
